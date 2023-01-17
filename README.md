@@ -1,0 +1,2 @@
+# SQL-Beecrowd-
+Sql querrys
